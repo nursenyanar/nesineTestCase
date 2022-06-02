@@ -22,3 +22,6 @@ git clone https://github.com/nursenyanar/nesineTestCase
 * Go to project path
 * And run this command "allure serve"
 
+### Image
+![AllureReport](/allure-results/allure-report-1.png)
+![AllureReport1](/allure-results/allure-report-2.png)
