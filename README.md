@@ -1,4 +1,4 @@
-# nesineTestCase
+# Nesine Test Case
 Nesine.com test case projesidir.
 
 # Requirements
