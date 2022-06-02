@@ -18,7 +18,7 @@ git clone https://github.com/nursenyanar/nesineTestCase
 ## For Allure Report
 
 * Firstly run the test TestRunner class
-* Then open the terminal.
+* Then open the terminal
 * Go to project path
 * And run this command "allure serve"
 
